@@ -5,5 +5,5 @@
 <ul>
 <li> To use this you must have a proper setup of python in your System</li>
   <li> Clone repositry using <code>git clone https://github.com/nishchalbasyal/commandLine_ShoppingCart_App.git</code></li>
-  <li>Run <code>python code.py</code></li>
+  <li>Run <code>python app.py</code></li>
 </ul>
